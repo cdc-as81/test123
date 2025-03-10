@@ -1,0 +1,7 @@
+[package]
+name = "testing_release"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ixa = { git = "https://github.com/CDCgov/ixa", branch = "release", version = "0.0.1" }
