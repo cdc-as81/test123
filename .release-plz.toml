@@ -5,6 +5,8 @@
 #dependencies_update = true # update dependencies with `cargo update`
 #git_release_enable = false # disable GitHub/Gitea releases
 pr_branch_prefix = "release-plz-" # PR branch prefix
+git_release_draft = true
+pr_draft = true
 pr_name = "Release {{ package }} v{{ version }}" # template for the PR name
 pr_labels = ["release"] # add the `release` label to the release Pull Request
 #publish_allow_dirty = true # add `--allow-dirty` to `cargo publish`
