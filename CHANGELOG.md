@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.3.1](https://github.com/cdc-as81/test123/releases/tag/v1.3.1) - 2025-03-10
+## [1.3.2](https://github.com/cdc-as81/test123/releases/tag/v1.3.2) - 2025-03-10
 
 ### Added
 
